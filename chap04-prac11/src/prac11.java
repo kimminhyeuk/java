@@ -59,7 +59,7 @@ public class prac11 {
  		System.out.print("두 정수와 연산자를 입력하시오>>"); 
  		int a = scanner.nextInt(); 
  		int b = scanner.nextInt(); 
- 		char operator = scanner.next().charAt(0); // 연산자를 문자로 변환 
+ 		char operator = scanner.next().charAt(0);  
  		switch (operator) { 
  			case '+': 
  				Add add = new Add(); 
