@@ -86,5 +86,6 @@ public class prac11 {
  		} 
  		 
  		scanner.close(); 
+ 		//Çß´Ù.
  	} 
  } 
